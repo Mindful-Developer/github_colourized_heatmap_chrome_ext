@@ -20,7 +20,7 @@ https://github.com/ghgraphcolordraw
 
 The extension applies a custom color scheme to the GitHub contribution calendar:
 
-- 0-6 contributions: Shades of grey (darker as count increases)
+- 0-6 contributions: Shades of grey (lighter as count increases)
 - 7+ contributions: Cycles through a custom hue array with increasing saturation
 
 ## Installation
