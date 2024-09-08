@@ -3,6 +3,11 @@
 A Chrome extension that enhances your GitHub contribution calendar by applying a vibrant, customized color scheme to the heatmap.
 
 ![Demo of GitHub Heatmap Colorizer](imgs/demo.png)
+![Demo of GitHub Heatmap Colorizer](imgs/before.png)
+![Demo of GitHub Heatmap Colorizer](imgs/after.png)
+
+https://github.com/ghgraphcolordraw
+
 
 ## Features
 
