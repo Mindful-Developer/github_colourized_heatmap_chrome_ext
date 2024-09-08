@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Heatmap Colorizer",
+  "version": "1.0",
+  "description": "Changes the color of the GitHub contribution calendar heatmap",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
